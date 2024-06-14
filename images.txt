@@ -1,1 +1,1 @@
-mysql:8.0.36
+ghcr.io/songquanpeng/one-api:latest
