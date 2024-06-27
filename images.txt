@@ -1,1 +1,1 @@
-minio/minio
+ghcr.io/toeverything/affine:latest
