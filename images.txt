@@ -1,1 +1,1 @@
-ghcr.io/toeverything/affine:latest
+ghcr.io/toeverything/affine
